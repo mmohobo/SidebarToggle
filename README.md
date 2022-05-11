@@ -5,4 +5,4 @@ When using a NavigationView in SwiftUI on macOS, it's possible for the user to d
 
 This is not a complete Xcode project, just sample .swift files.
 
-Reference [this article](https://sarunw.com/posts/how-to-toggle-sidebar-in-macos/) for more info.
+Shout out to [this article](https://sarunw.com/posts/how-to-toggle-sidebar-in-macos/) for the info.
